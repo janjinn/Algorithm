@@ -1,12 +1,7 @@
 import java.util.*;
 
 public class Main {
-    static int N;
-    static int L;
-    static int R;
-    static int[][] A;
-    static boolean[][] visited;
-
+    
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
